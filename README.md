@@ -1,158 +1,159 @@
-# 🦇 AARON MESSERE
+# AARON MESSERE
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:2b2b2b&height=180&section=header&text=Welcome%20to%20Gotham&fontSize=42&fontColor=f5c542&animation=fadeIn&fontAlignY=35" />
-</p>
+**Application Developer · Switzerland · Software Engineering**
 
-<p align="center">
-  <strong>💻 Application Developer • 🇨🇭 Switzerland • 🦇 Building in the shadows</strong>
-</p>
+> *"Sometimes the truth isn't good enough. Sometimes people deserve more."*
+
+I'm an Application Development apprentice focused on building modern web applications and continuously improving my skills across the full stack.
+
+Currently working mainly with **React, TypeScript and Angular**, while expanding into **Java, Spring Boot, Docker and backend development**.
 
 ---
 
-## 🦇 WHO AM I?
-
-> *"It's not who I am underneath, but what I do that defines me."*
-
-I'm **Aaron**, an Application Development apprentice from Switzerland who enjoys turning ideas into working applications.
-
-Currently, I'm focused on **frontend development**, while expanding my skills into backend development, software architecture and DevOps.
-
-When I'm not coding, you'll probably find me playing volleyball, producing music or working on another project.
+## SYSTEM
 
 ```text
-┌──────────────────────────────────────────────┐
-│              🦇 BATCOMPUTER ONLINE           │
-├──────────────────────────────────────────────┤
-│                                              │
-│  Identity       : Aaron Messere              │
-│  Location       : Switzerland 🇨🇭             │
-│  Role           : Application Developer      │
-│  Status         : Building                   │
-│  Mission        : Turn ideas into software   │
-│                                              │
-└──────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────┐
+│  SYSTEM STATUS                                             │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  OPERATOR      Aaron Messere                               │
+│  ROLE          Application Developer                       │
+│  LOCATION      Switzerland                                 │
+│  FOCUS         Full-Stack Development                      │
+│  STATUS        ONLINE                                       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🛠️ THE BAT-STACK
+## TECHNICAL ARSENAL
 
-### 🎨 Frontend
+### FRONTEND
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,typescript,angular,nextjs,tailwind,html,css" />
 </p>
 
-**React · TypeScript · Angular · Next.js · Tailwind CSS · HTML · CSS**
+`React` · `TypeScript` · `Angular` · `Next.js` · `Tailwind CSS` · `HTML` · `CSS`
 
-### ⚙️ Backend
+### BACKEND
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs" />
 </p>
 
-**Java · Spring Boot · Node.js**
+`Java` · `Spring Boot` · `Node.js`
 
-### 🗄️ Data
+### DATABASE
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,h2" />
 </p>
 
-**MongoDB · MySQL · H2**
+`MongoDB` · `MySQL` · `H2`
 
-### 🐳 DevOps & Tools
+### TOOLS & INFRASTRUCTURE
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" />
 </p>
 
-**Docker · Git · GitHub · Linux · VS Code**
+`Docker` · `Git` · `GitHub` · `Linux` · `VS Code`
 
 ---
 
-## 🦇 CURRENTLY LEARNING
+## CURRENT OPERATIONS
 
-```diff
-+ React & TypeScript
-+ Spring Boot
-+ Docker
-+ Software Architecture
-+ Testing
-+ Full-Stack Development
+```text
+[████████████████████████████████] REACT / TYPESCRIPT
+
+[████████████████████████████    ] JAVA / SPRING BOOT
+
+[██████████████████████          ] DOCKER / LINUX
+
+[████████████████████            ] SOFTWARE ARCHITECTURE
+
+[██████████████████              ] TESTING
 ```
 
-My goal is to become a stronger **full-stack developer** while building software that is actually useful.
+Currently focused on:
+
+* Building scalable React applications
+* Improving TypeScript and Java skills
+* Developing REST APIs with Spring Boot
+* Containerizing applications with Docker
+* Learning better testing and software architecture
 
 ---
 
-## 🚀 PROJECTS
+## SELECTED PROJECTS
 
-### 🧪 Prüfungs-Schätzer
+### Prüfungs-Schätzer
 
-A web application for estimating exam grades and results.
+A web application for estimating examination results and grades.
 
-**Stack:**
-`Next.js` `React` `TypeScript` `Tailwind` `Spring Boot` `Java` `H2`
+**Frontend**
+
+`Next.js` `React` `TypeScript` `Tailwind CSS`
+
+**Backend**
+
+`Java` `Spring Boot` `H2`
 
 ---
 
-### 🛍️ DREAM4U
+### DREAM4U
 
-A clothing project built together with a team.
+A full-stack clothing project developed as a team project.
 
-**Stack:**
 `React` `TypeScript` `Java` `Spring Boot`
 
 ---
 
-### 🐳 Docker Projects
+### Docker Infrastructure
 
-Working with containerized applications, multi-stage builds, caching and Linux environments.
+Working with containerized frontend and backend applications, including multi-stage builds, caching and Linux environments.
 
-**Stack:**
 `Docker` `Ubuntu` `React` `Spring Boot`
 
 ---
 
-## 📊 BAT-SIGNAL: ACTIVITY
+## GITHUB ACTIVITY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&title_color=f5c542&icon_color=f5c542&text_color=ffffff&bg_color=0d0d0d" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true&background=0d0d0d&ring=f5c542&fire=f5c542&currStreakLabel=f5c542" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=f5c542&icon_color=f5c542&text_color=ffffff" />
 </p>
 
 ---
 
-## 🦇 THE MISSION
+## OBJECTIVE
 
 ```text
-LEARN        →  BUILD        →  BREAK        →  FIX        →  REPEAT
-
-        ┌──────────────────────────────┐
-        │       GOTHAM NEEDS CODE      │
-        │                              │
-        │          KEEP BUILDING.      │
-        └──────────────────────────────┘
+LEARN
+  ↓
+BUILD
+  ↓
+TEST
+  ↓
+BREAK
+  ↓
+FIX
+  ↓
+IMPROVE
+  ↺
 ```
 
-I'm always working on improving my skills, learning new technologies
-and turning ideas into projects.
+I like understanding **how things work**, building them myself,
+and continuously improving the way I develop software.
 
 ---
 
 <p align="center">
 
-### 🦇 "I work alone. But my code doesn't."
+**AARON MESSERE**
 
-**Aaron Messere**
+`APPLICATION DEVELOPMENT · SOFTWARE · BUILDING`
 
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b2b2b,50:1a1a1a,100:0d0d0d&height=100&section=footer" />
 </p>
