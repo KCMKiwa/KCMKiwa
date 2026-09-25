@@ -1,13 +1,9 @@
 <!-- psst. you found the source. -->
 
-<p align="center">
-  <img src="./assets/rainy-gotham.svg" width="100%" alt="Rainy Gotham" />
-</p>
-
-# AARON MESSERE
+# AARON
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a1a,100:2b2b2b&height=180&section=header&text=Systems%20Online&fontSize=42&fontColor=c1121f&animation=fadeIn&fontAlignY=35" />
+  <img src="./assets/banner.svg" width="100%" alt="Aaron — Application Developer, Switzerland. Rain falling over the stack and mission." />
 </p>
 
 <p align="center">
@@ -29,11 +25,11 @@ When I'm not coding, you'll probably find me playing volleyball, producing music
 │                SYSTEM ONLINE                 │
 ├──────────────────────────────────────────────┤
 │                                              │
-│  Identity       : Aaron Messere              │
-│  Location       : Switzerland                │
+│  Identity       : Aaron                      │
+│  Location       : HIDDEN                     │
 │  Role           : Application Developer      │
 │  Status         : Building                   │
-│  Mission        : Turn ideas into software   │
+│  Mission        : Unknown                    │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
