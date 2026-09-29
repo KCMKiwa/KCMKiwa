@@ -78,7 +78,7 @@
 
   <!-- header -->
   <text x="450" y="110" class="title" filter="url(#textGlow)">AARON</text>
-  <text x="450" y="145" class="sub">Application Developer · Switzerland · Working best after dark</text>
+  <text x="450" y="145" class="sub">Application Developer · Working best after dark</text>
 
   <line x1="60" y1="180" x2="840" y2="180" stroke="#2b2b2b" stroke-width="1"/>
 
