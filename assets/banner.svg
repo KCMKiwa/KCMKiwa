@@ -17,10 +17,21 @@
     </linearGradient>
 
     <radialGradient id="glow" cx="50%" cy="8%" r="55%">
-      <stop offset="0%" stop-color="#c1121f" stop-opacity="0.35"/>
-      <stop offset="45%" stop-color="#c1121f" stop-opacity="0.10"/>
-      <stop offset="100%" stop-color="#c1121f" stop-opacity="0"/>
+      <stop offset="0%" stop-color="#b8b8b8" stop-opacity="0.28"/>
+      <stop offset="45%" stop-color="#858585" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#858585" stop-opacity="0"/>
     </radialGradient>
+
+    <linearGradient id="thunderFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="42%" stop-color="#ffffff"/>
+      <stop offset="68%" stop-color="#777777"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+
+    <mask id="thunderMask" maskUnits="userSpaceOnUse" x="0" y="0" width="900" height="1180">
+      <rect width="900" height="1180" fill="url(#thunderFade)"/>
+    </mask>
 
     <filter id="textGlow" x="-50%" y="-50%" width="200%" height="200%">
       <feGaussianBlur stdDeviation="4" result="blur"/>
@@ -152,7 +163,6 @@
   <!-- mission -->
   <text x="450" y="1000" class="h2">THE MISSION</text>
   <text x="450" y="1030" class="sub" letter-spacing="2">LEARN  →  BUILD  →  BREAK  →  FIX  →  REPEAT</text>
-  <rect x="330" y="1048" width="240" height="34" rx="3" fill="#0d0d0d" stroke="#c1121f"/>
   <text x="450" y="1070" class="pillTxt" fill="#c1121f">KEEP BUILDING.</text>
 
   <line x1="60" y1="1108" x2="840" y2="1108" stroke="#2b2b2b" stroke-width="1"/>
@@ -182,5 +192,14 @@
     <line x1="460" y1="-60" x2="454" y2="-30"><animate attributeName="y1" values="-60;1220" dur="1.6s" begin="-1.3s" repeatCount="indefinite"/><animate attributeName="y2" values="-30;1250" dur="1.6s" begin="-1.3s" repeatCount="indefinite"/></line>
     <line x1="660" y1="-60" x2="654" y2="-30"><animate attributeName="y1" values="-60;1220" dur="1.8s" begin="-0.6s" repeatCount="indefinite"/><animate attributeName="y2" values="-30;1250" dur="1.8s" begin="-0.6s" repeatCount="indefinite"/></line>
     <line x1="840" y1="-60" x2="834" y2="-30"><animate attributeName="y1" values="-60;1220" dur="1.65s" begin="-1.0s" repeatCount="indefinite"/><animate attributeName="y2" values="-30;1250" dur="1.65s" begin="-1.0s" repeatCount="indefinite"/></line>
+  </g>
+
+  <g pointer-events="none">
+    <rect width="900" height="1180" fill="#ffffff" opacity="0" mask="url(#thunderMask)">
+      <animate attributeName="opacity" values="0;0;0.2;0.01;0.13;0.02;0.18;0.01;0.1;0;0" keyTimes="0;0.5;0.56;0.59;0.62;0.65;0.68;0.71;0.74;0.78;1" dur="16s" begin="-8.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="900" height="1180" fill="#ffffff" opacity="0" mask="url(#thunderMask)">
+      <animate attributeName="opacity" values="0;0;0;0.13;0.01;0.08;0.018;0.16;0.008;0.06;0" keyTimes="0;0.58;0.63;0.66;0.69;0.72;0.75;0.78;0.81;0.84;1" dur="24s" begin="-15.2s" repeatCount="indefinite"/>
+    </rect>
   </g>
 </svg>
