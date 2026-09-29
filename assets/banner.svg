@@ -74,11 +74,11 @@
       .h2      { font: 700 20px monospace; fill: #c1121f; letter-spacing: 4px; text-anchor: middle; }
       .label   { font: 700 11px monospace; fill: #7a7a7a; letter-spacing: 3px; text-anchor: middle; }
       .panelTxt{ font: 400 14px monospace; fill: #d0d0d0; }
-      .panelKey{ font: 700 14px monospace; fill: #c1121f; }
+      .panelKey{ font: 700 14px monospace; fill: #8a8a8a; }
       .chipTxt { font: 600 13px monospace; fill: #e8e8e8; }
       .sign    { font: 700 14px monospace; fill: #7a7a7a; letter-spacing: 2px; text-anchor: middle; }
       .bar     { fill: #1a1a1a; }
-      .barFill { fill: #c1121f; }
+      .barFill { fill: #8a8a8a; }
       .drop    { stroke-linecap: round; }
     </style>
   </defs>
@@ -94,14 +94,14 @@
   <line x1="60" y1="180" x2="840" y2="180" stroke="#2b2b2b" stroke-width="1"/>
 
   <!-- system panel -->
-  <rect x="150" y="205" width="600" height="170" rx="6" fill="#0d0d0d" stroke="#c1121f" stroke-width="1" opacity="0.9"/>
+  <rect x="150" y="205" width="600" height="170" rx="6" fill="#0d0d0d" stroke="#8a8a8a" stroke-width="1" opacity="0.9"/>
   <line x1="150" y1="241" x2="750" y2="241" stroke="#2b2b2b"/>
-  <text x="175" y="231" class="panelTxt" font-weight="700" fill="#f2f2f2">SYSTEM ONLINE</text>
-  <text x="175" y="267" class="panelTxt"><tspan class="panelKey">Identity  </tspan> Aaron</text>
-  <text x="175" y="291" class="panelTxt"><tspan class="panelKey">Location  </tspan> HIDDEN</text>
-  <text x="175" y="315" class="panelTxt"><tspan class="panelKey">Role      </tspan> Application Developer</text>
-  <text x="175" y="339" class="panelTxt"><tspan class="panelKey">Status    </tspan> Building</text>
-  <text x="175" y="363" class="panelTxt"><tspan class="panelKey">Mission   </tspan> Unknown</text>
+  <text x="175" y="231" class="panelTxt" font-weight="700" fill="#c1121f">SYSTEM ONLINE</text>
+  <text x="175" y="267" class="panelTxt"><tspan class="panelKey">Identity  </tspan><tspan fill="#c1121f"> Aaron</tspan></text>
+  <text x="175" y="291" class="panelTxt"><tspan class="panelKey">Location  </tspan><tspan fill="#c1121f"> HIDDEN</tspan></text>
+  <text x="175" y="315" class="panelTxt"><tspan class="panelKey">Role      </tspan><tspan fill="#c1121f"> Application Developer</tspan></text>
+  <text x="175" y="339" class="panelTxt"><tspan class="panelKey">Status    </tspan><tspan fill="#c1121f"> Building</tspan></text>
+  <text x="175" y="363" class="panelTxt"><tspan class="panelKey">Mission   </tspan><tspan fill="#c1121f"> Unknown</tspan></text>
 
   <!-- stack -->
   <text x="450" y="425" class="h2">THE STACK</text>
@@ -196,10 +196,10 @@
 
   <g pointer-events="none">
     <rect width="900" height="1180" fill="#ffffff" opacity="0" mask="url(#thunderMask)">
-      <animate attributeName="opacity" values="0;0;0.2;0.01;0.13;0.02;0.18;0.01;0.1;0;0" keyTimes="0;0.5;0.56;0.59;0.62;0.65;0.68;0.71;0.74;0.78;1" dur="16s" begin="-8.8s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0.11;0.006;0.07;0.01;0.1;0.006;0.055;0;0" keyTimes="0;0.68;0.70;0.72;0.74;0.76;0.78;0.80;0.82;0.85;1" dur="16s" begin="-11.6s" repeatCount="indefinite"/>
     </rect>
     <rect width="900" height="1180" fill="#ffffff" opacity="0" mask="url(#thunderMask)">
-      <animate attributeName="opacity" values="0;0;0;0.13;0.01;0.08;0.018;0.16;0.008;0.06;0" keyTimes="0;0.58;0.63;0.66;0.69;0.72;0.75;0.78;0.81;0.84;1" dur="24s" begin="-15.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0;0;0.07;0.006;0.045;0.01;0.09;0.005;0.035;0" keyTimes="0;0.75;0.77;0.79;0.81;0.83;0.85;0.87;0.89;0.92;1" dur="24s" begin="-18.8s" repeatCount="indefinite"/>
     </rect>
   </g>
 </svg>
